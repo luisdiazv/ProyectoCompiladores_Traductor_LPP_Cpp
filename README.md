@@ -14,7 +14,7 @@ Traductor dirigido por sintaxis usando ANTLR partiendo desde el lenguaje de prog
 
 1. Click derecho en el archivo main.java de la carpeta src
 2. Click en "Modify Run Configuration..."
-3. Modificar el campo parameters por "src/input/entrada.txt"
+3. Modificar el "Program arguments" por "src/input/entrada.txt"
 
 ## Referencias
 
